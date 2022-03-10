@@ -1,6 +1,6 @@
-# UBC-Wayfinder
+# UBC-Wayfinding
 
-Fun and user-friendly UBC way finder map. Enjoy!
+Fun and user-friendly UBC wayfinding map. Enjoy!
 
 Data source: https://github.com/UBCGeodata
 
